@@ -1,0 +1,18 @@
+{
+  "videos": [
+    {
+      "id": "0",
+      "title": "Sample Video",
+      "views": 1500,
+      "channelTitle": "Channel 1"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "adnan sayyed",
+      "email": "sadnan45786@gmail.com",
+      "address": "bandra"
+    }
+  ]
+}
